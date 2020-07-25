@@ -1,0 +1,113 @@
+[[libcsv]]
+arch = "aarch64"
+git-tree-sha1 = "7ac95d2881b10c6e09ae09271494ec60b79f3c67"
+libc = "glibc"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "2bde17295baab2a9f42741c5867a504a35339d3fa24cb20c97badc99667e748c"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[libcsv]]
+arch = "aarch64"
+git-tree-sha1 = "bca4e4b9aca25bc68455b28dc3640ea1bff235af"
+libc = "musl"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "208d74d4acf9efa9bf4a4ffd394b8a7bb42fa525a1bc51e65517df12fa22e0aa"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.aarch64-linux-musl.tar.gz"
+[[libcsv]]
+arch = "armv7l"
+git-tree-sha1 = "dbc8d69b8d1fa8ad70d98157041f9bcba05badb1"
+libc = "glibc"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "776d3ff8ea60c52d0b8052175da9155e71960df9b41b56414dc285463e88b559"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[libcsv]]
+arch = "armv7l"
+git-tree-sha1 = "a9bb6700c4d506990f32b9616162ff2bb0f9a33f"
+libc = "musl"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "dfbcfc31545db00f39b286224c5f5d07e908c21854685a3496410a513365500a"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[libcsv]]
+arch = "i686"
+git-tree-sha1 = "4fd14332b3cb49013289d46887aaf3eaf315a8db"
+libc = "glibc"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "8d39e0ac16b068e10996a6bf1f8c78a2e548588e5ef4d39ed1e5ecc9c9de4f98"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.i686-linux-gnu.tar.gz"
+[[libcsv]]
+arch = "i686"
+git-tree-sha1 = "cbb256946c7081fb2d4e2dd4284e2989f04059ac"
+libc = "musl"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "a5ef8593cd6f29cde7e5a0e6344b507e0dec71ae7810127ecdce275177499dce"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.i686-linux-musl.tar.gz"
+[[libcsv]]
+arch = "i686"
+git-tree-sha1 = "d8c59580383fdd569043b47b1379193226263dae"
+os = "windows"
+
+    [[libcsv.download]]
+    sha256 = "9cb60df5403ce9bb8f5424fd32413f7357b896a0176c9d1af828096b3ba17382"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.i686-w64-mingw32.tar.gz"
+[[libcsv]]
+arch = "powerpc64le"
+git-tree-sha1 = "efeed9d1d13dd5fa09a5b3f113e2d7a06fb3c3ab"
+libc = "glibc"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "b9df878076eceb509b582ce7bef7bf9c88b55dd2ad768d1732d6ec294adcb7e6"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[libcsv]]
+arch = "x86_64"
+git-tree-sha1 = "8881686b48cbc6748af29c16d3d0df8b8bf7421e"
+os = "macos"
+
+    [[libcsv.download]]
+    sha256 = "ce593ffac3f9dc93874031528c69ab76e6473b7150b547269f600e103cc9a413"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.x86_64-apple-darwin14.tar.gz"
+[[libcsv]]
+arch = "x86_64"
+git-tree-sha1 = "8d33226b7e60c1c220ea066fa2fee264d78aabcc"
+libc = "glibc"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "bc4632b5b9ae461b3e6002760a8d2bb93c4fe7ce59554c6b7bd44698a5aedb5f"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[libcsv]]
+arch = "x86_64"
+git-tree-sha1 = "2d4b862e914369c1be3be3601c9a629063e03f0b"
+libc = "musl"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "335cc49da0e078e860e8a308092284c738e612111e2390b7f9ae811d2ca11444"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.x86_64-linux-musl.tar.gz"
+[[libcsv]]
+arch = "x86_64"
+git-tree-sha1 = "a3237246e9ed3e2703d27ba5668620d150d07060"
+os = "freebsd"
+
+    [[libcsv.download]]
+    sha256 = "6981234736f5bf19c4d7ac858e1e36c0c4fe192655bd046b228a83d4f27cb581"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[libcsv]]
+arch = "x86_64"
+git-tree-sha1 = "3aee1ecd55276f89b7a697635f632cf80133d5c4"
+os = "windows"
+
+    [[libcsv.download]]
+    sha256 = "656dde89e71231b1be2db1e780ce14285a3a988547ac5a044558dfbe35e6fddc"
+    url = "https://github.com/JuliaBinaryWrappers/libcsv_jll.jl/releases/download/libcsv-v0.0.1+0/libcsv.v0.0.1.x86_64-w64-mingw32.tar.gz"
